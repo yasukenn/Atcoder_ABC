@@ -2,4 +2,4 @@
 
 Atcoder ABC問題練習用コードリポジトリ
 
-ABC241(2/26開催)　→　https://github.com/yasukenn/Atcoder_ABC/blob/main/ABC241.ipynb
+ABC241(2022/2/26開催)　→　https://github.com/yasukenn/Atcoder_ABC/blob/main/ABC241.ipynb
